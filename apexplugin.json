@@ -1,4 +1,5 @@
-  "name" : "APEX-Websocket-Plugin",
+{
+"name" : "APEX-Websocket-Plugin",
   "version" : "1.0",
   "description" : "A WebSocket-Plugin for declarative usage in Oracle APEX",
   "keywords" : ["WebSockets", "realtime" , "connection"],
@@ -11,8 +12,8 @@
   "author" : {
     "name" : "Kai Donato",
     "email" : "kai.donato@mt-ag.com",
-    "url" : "apex.mt-ag.com/"
-    "twitter" : "_KaiDonato"
+    "url" : "apex.mt-ag.com/",
+    "twitter" : "_KaiDonato",
     "donationUrl" : ""
   },
   "repository" : {
