@@ -1,0 +1,34 @@
+  "name" : "APEX-Websocket-Plugin",
+  "version" : "1.0",
+  "description" : "A WebSocket-Plugin for declarative usage in Oracle APEX",
+  "keywords" : ["WebSockets", "realtime" , "connection"],
+  "homepage" : "https://github.com/mt-ag/apex-websocket-plugin",
+  "bugs" : {
+    "url" : "https://github.com/mt-ag/apex-websocket-plugin/issues",
+    "email" : "kai.donato@mt-ag.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Kai Donato",
+    "email" : "kai.donato@mt-ag.com",
+    "url" : "apex.mt-ag.com/"
+    "twitter" : "_KaiDonato"
+    "donationUrl" : ""
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mt-ag/apex-websocket-plugin.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "DE.KAI-DONATO.APEX.WEBSOCKET-CONNECTION",
+        "type" : "dynamic action",
+        "demo" : "",
+        "previewImage" : "https://raw.githubusercontent.com/mt-ag/apex-websocket-plugin/master/Screenshot1.png"
+      }
+    }
+  }
+}
