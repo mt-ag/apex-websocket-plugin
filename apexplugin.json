@@ -12,9 +12,9 @@
   "author" : {
     "name" : "Kai Donato",
     "email" : "kai.donato@mt-ag.com",
-    "url" : "apex.mt-ag.com/",
+    "url" : "apex.mt-ag.com",
     "twitter" : "_KaiDonato",
-    "donationUrl" : ""
+    "donationUrl" : "none"
   },
   "repository" : {
     "type" : "git",
@@ -27,7 +27,7 @@
       "plugin" : {
         "internalName" : "DE.KAI-DONATO.APEX.WEBSOCKET-CONNECTION",
         "type" : "dynamic action",
-        "demo" : "",
+        "demo" : "none",
         "previewImage" : "https://raw.githubusercontent.com/mt-ag/apex-websocket-plugin/master/Screenshot1.png"
       }
     }
